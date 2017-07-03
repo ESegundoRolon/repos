@@ -1,0 +1,6 @@
+index_1 -> referencia al archivo clases
+index_2 -> referencia a ningun archivo de clases (error)
+index_3 -> referencia a cada archivo de clases
+index_4 -> autoload
+
+index_4 -> Reorganizacion de codigo, system.ini.php

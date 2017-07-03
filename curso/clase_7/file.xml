@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+<Productos>
+ 
+<Producto><id>1</id><falta>2016-09-11 23:43:39</falta><fmodificacion>2016-09-11 23:43:39</fmodificacion><habilitado>1</habilitado><feliminado/><denominacion>Sunflower Oil(5 kg)</denominacion><descripcion>Sunflower Oil(5 kg)</descripcion><activa>1</activa><codigo>SKU0001</codigo><precio>100.00</precio><publicaciones_estados_id>0</publicaciones_estados_id><oferta/><precio_oferta>90.00</precio_oferta><fecha_finalizacion_oferta/><destacado/></Producto><Producto><id>2</id><falta>2016-09-11 23:43:39</falta><fmodificacion>2016-09-11 23:44:41</fmodificacion><habilitado>1</habilitado><feliminado/><denominacion>Moong(1 kg)</denominacion><descripcion>Moong(1 kg)</descripcion><activa>1</activa><codigo>SKU0002</codigo><precio>50.00</precio><publicaciones_estados_id>0</publicaciones_estados_id><oferta/><precio_oferta>40.00</precio_oferta><fecha_finalizacion_oferta/><destacado/></Producto><Producto><id>3</id><falta>2016-09-11 23:43:39</falta><fmodificacion>2016-09-11 23:45:26</fmodificacion><habilitado>1</habilitado><feliminado/><denominacion>Kabuli Chana(1 kg)</denominacion><descripcion>Kabuli Chana(1 kg)</descripcion><activa>1</activa><codigo>SKU0003</codigo><precio>70.00</precio><publicaciones_estados_id>0</publicaciones_estados_id><oferta/><precio_oferta>65.00</precio_oferta><fecha_finalizacion_oferta/><destacado/></Producto><Producto><id>4</id><falta>2016-09-11 23:43:39</falta><fmodificacion>2016-09-11 23:46:13</fmodificacion><habilitado>1</habilitado><feliminado/><denominacion>Soya Chunks(1 kg)</denominacion><descripcion>Soya Chunks(1 kg)</descripcion><activa>1</activa><codigo>SKU0004</codigo><precio>80.00</precio><publicaciones_estados_id>0</publicaciones_estados_id><oferta/><precio_oferta>75.00</precio_oferta><fecha_finalizacion_oferta/><destacado/></Producto><Producto><id>5</id><falta/><fmodificacion>2017-05-16 20:02:05</fmodificacion><habilitado>1</habilitado><feliminado/><denominacion>
+               Producto numero 1
+          </denominacion><descripcion>
+               Descripcion 1
+          </descripcion><activa/><codigo>
+               SKU 000001
+   </codigo><precio>100.00</precio><publicaciones_estados_id>0</publicaciones_estados_id><oferta/><precio_oferta/><fecha_finalizacion_oferta/><destacado/></Producto><Producto><id>6</id><falta/><fmodificacion>2017-05-16 20:02:05</fmodificacion><habilitado>1</habilitado><feliminado/><denominacion>
+               Producto numero 2
+          </denominacion><descripcion>
+               Descripcion 2
+          </descripcion><activa/><codigo>
+               SKU 000002
+   </codigo><precio>50.00</precio><publicaciones_estados_id>0</publicaciones_estados_id><oferta/><precio_oferta/><fecha_finalizacion_oferta/><destacado/></Producto><Producto><id>7</id><falta/><fmodificacion>2017-05-16 20:02:05</fmodificacion><habilitado>1</habilitado><feliminado/><denominacion>
+               Producto numero 3
+          </denominacion><descripcion>
+               Descripcion 3
+          </descripcion><activa/><codigo>
+               SKU 000003 
+  </codigo><precio>25.00</precio><publicaciones_estados_id>0</publicaciones_estados_id><oferta/><precio_oferta/><fecha_finalizacion_oferta/><destacado/></Producto></Productos>
